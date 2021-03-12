@@ -57,8 +57,8 @@
           "address": "vidulum1tm503096k40xgwh383lacx73l5x49uvtas0kpp",
           "coins": [
             {
-              "denom": "vdl",
-              "amount": "100000000"
+              "denom": "uvdl",
+              "amount": "900000000000"
             }
           ]
         },
@@ -67,11 +67,7 @@
           "coins": [
             {
               "denom": "uvdl",
-              "amount": "1000000"
-            },
-            {
-              "denom": "vdl",
-              "amount": "100000"
+              "amount": "60000000000"
             }
           ]
         }
